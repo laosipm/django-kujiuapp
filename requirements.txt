@@ -1,4 +1,4 @@
-django==1.11.23
+django==2.2.24
 Markdown==3.0.1
 Pygments==2.3.1
 pytz==2019.01
